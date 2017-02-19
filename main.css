@@ -1,0 +1,31 @@
+body {
+  font-family: 'monotype corsiva', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding: 50px;
+  font-size: 19px;
+ 
+  background-color: black;
+  color: yellow;
+  
+}
+
+.hover:hover {
+  color:red
+  
+}
+
+.paragraph {
+  font-family:  'arial', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding: 10px;
+  font-size: 13px;
+  text-align: left;
+  background-color: black;
+  color: pink;
+  text-indent: 20px;
+  text-align: justify;
+}
+
+
+#wrapper:hover .text {
+visibility:visible;
+}
+
